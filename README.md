@@ -25,3 +25,5 @@ Tools :
   * [Regresi](https://github.com/ronnymunthe99/Portfolio_Data_Science/blob/main/Regresi.ipynb)
   * [Python For Data Science](https://github.com/ronnymunthe99/PythonForDataScience)
   * [Calculate Manually CNN-GRU Architecture using Excel](https://github.com/ronnymunthe99/CalculateManuallyCNN-RNNArchitecture)
+
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/ronnydominikusmunthe/) - [Email](ronnymunthe99@gmail.com)
